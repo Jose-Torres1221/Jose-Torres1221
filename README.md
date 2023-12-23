@@ -23,6 +23,7 @@
 I am an Informatics student at the School of Information at The University of Texas at Austin :metal:
 
 - :mag: I am completing a Quantum Information Science Certificate
+- :brain: I am completing a Philosphy of Mind and Language Minor
 - :notebook_with_decorative_cover: I am an iSchool Inclusion Institute (I3) Scholar
 - :books: Always reading to stay informed of any new developments and technologies
 - Follow my progress as I learn and master the <a href = "https://trello.com/b/M0fCauXK/ossu-math-jose-torres"> OSSU Mathematics Curriculum </a>
