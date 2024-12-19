@@ -22,10 +22,11 @@
 ### :man_technologist: About Me :
 I am an Informatics student at the School of Information at The University of Texas at Austin :metal:
 
-- :mag: I am completing a Quantum Information Science Certificate
 - :notebook_with_decorative_cover: I am an iSchool Inclusion Institute (I3) Scholar
   - Published in 2024 iConference
   - Published in 2024 Society for Information Technology and Teacher Education (SITE)
+- :mag: Research under UT Austin iSchool AI & NLP Lab
+  - Published in 2025 AAAI conference
 - :books: Always reading to stay informed of any new developments and technologies
 - Follow my progress as I learn and master the <a href = "https://trello.com/b/M0fCauXK/ossu-math-jose-torres"> OSSU Mathematics Curriculum </a>
 
