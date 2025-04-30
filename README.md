@@ -20,13 +20,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am an Informatics student at the School of Information at The University of Texas at Austin :metal:
+I am an Informatics student at the School of Information at The University of Texas at Austin :metal: <br>
+Driven junior data-analyst with a focus on using statistical analysis, data visualization and analytical thinking to create solutions for real-world problems. Experienced in cutting-edge technologies through published research, impactful projects and thoughtful presentations. Dedicated to creating stories with data to create high-quality, high-impact innovative solutions through a highly-detailed organized workflow.
 
 - :notebook_with_decorative_cover: I am an iSchool Inclusion Institute (I3) Scholar
   - Published in 2024 iConference
   - Published in 2024 Society for Information Technology and Teacher Education (SITE)
 - :mag: Research under UT Austin iSchool AI & NLP Lab
   - Published in 2025 AAAI conference
+  - Published in 2025 NACL conference
 - :books: Always reading to stay informed of any new developments and technologies
 - Follow my progress as I learn and master the <a href = "https://trello.com/b/M0fCauXK/ossu-math-jose-torres"> OSSU Mathematics Curriculum </a>
 
@@ -37,5 +39,8 @@ I am an Informatics student at the School of Information at The University of Te
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="40" height="40"/>
 </div>
